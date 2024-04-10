@@ -34,4 +34,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: nsowmya928/gitops-apps-hello:${{ env.TAG_NAME }}               
+        tags: nsowmya928/gitops-apps-hello:${{ env.TAG_NAME }}                
